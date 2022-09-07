@@ -1,0 +1,11 @@
+.likeButton:hover {
+  cursor: pointer;
+}
+
+.commentButton:hover {
+  cursor: pointer;
+}
+
+.sendCommentButton:hover {
+  cursor: pointer;
+}
